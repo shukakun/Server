@@ -61,7 +61,7 @@ public class SmackCcsClient
 
     public static final String GCM_SERVER = "gcm.googleapis.com";
     public static final int GCM_PORT = 5235;
-    public static final String GCM_SENDER_ID = "western-glow-790";
+    public static final String GCM_SENDER_ID = "596375495307";
     public static final String GCM_SERVER_KEY = "AIzaSyCbfN12Oe4VCo_PFUUDsgWZdJFMqeskIbQ";
     public static final long GCM_TIME_TO_LIVE = 60L * 60L * 24L * 7L * 4L; // 4 Weeks
 
